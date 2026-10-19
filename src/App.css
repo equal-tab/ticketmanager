@@ -96,4 +96,5 @@ body {
 }
 .entrys{
   display: grid;
+  align-items: center;
 }
